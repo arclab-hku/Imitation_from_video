@@ -14,7 +14,7 @@ Experiments are performed using the Aliengo robot from Unitree. This repository 
 1. video motion data is in the folder "dataset/video_motion_***"
 2. The trained model can be found here:[model_25000.pt](logs/aliengo_amp/video_limp/model_25000.pt)
    
-   put the logs in folder AMP_Vision like: AMP_Vision/logs/aliengo_amp/video_XX
+   put the logs in folder Imitation_from_video  like: Imitation_from_video/logs/aliengo_amp/video_XX
 3. Before training, change the motion data path as which motion to learn in /legged_gym/envs/aliengo/aliengo_amp_config.py
    - `MOTION_FILES = glob.glob('datasets/video_motion_limp_aliengo/*')`
 4. Test by vis.sh
