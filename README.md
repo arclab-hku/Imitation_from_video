@@ -8,6 +8,9 @@ Experiments are performed using the Aliengo robot from Unitree. This repository 
 **Maintainer**: Liu ZHAO(zhaol@connect.hku.hk), Zeren LUO(zerluo@connect.hku.hk)
 
 **Affiliation**: University of Hong Kong
+<p align="center">
+  <img src="img/output.gif" alt="Output GIF" width="800">
+</p>
 
 ### Fast start 
 
@@ -21,10 +24,26 @@ Experiments are performed using the Aliengo robot from Unitree. This repository 
    - `./legged_gym/scripts/aliengo_sh/proprio_base/vis.sh video_limp`
 5. Train by train.sh
    - `./legged_gym/scripts/aliengo_sh/proprio_base/train.sh 0 0 video_test`
+     
+### Demo
 
 Backflip result:
-![bk_realwithgazabo.png](img/bk_realwithgazabo.png)
+
+<p align="center">
+  <img src="img/bk_realwithgazabo.png" alt="Backflip" width="800">
+</p>
+
 ### Installation ###
 
 Refer the AMP_for_hardware https://github.com/Alescontrela/AMP_for_hardware.git
 
+### License
+
+The source code of this ROS package is released under [GPLv2](https://www.gnu.org/licenses/) license. We only allow it free for academic usage with several patents. 
+For commercial use or cooperation, please contact Dr. Peng Lu lupeng@hku.hk.
+
+For any technical issues, please contact me via email zhaol@connect.hku.hk.
+
+### Citation
+
+update later
