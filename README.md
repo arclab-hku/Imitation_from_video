@@ -39,7 +39,7 @@ Refer the AMP_for_hardware https://github.com/Alescontrela/AMP_for_hardware.git
 
 ### License
 
-The source code of this ROS package is released under [GPLv2](https://www.gnu.org/licenses/) license. We only allow it free for academic usage with several patents. 
+The source code of this package is released under [GPLv2](https://www.gnu.org/licenses/) license. We only allow it free for academic usage with several patents. 
 For commercial use or cooperation, please contact Dr. Peng Lu lupeng@hku.hk.
 
 For any technical issues, please contact me via email zhaol@connect.hku.hk.
