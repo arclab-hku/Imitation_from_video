@@ -46,4 +46,4 @@ For any technical issues, please contact me via email zhaol@connect.hku.hk.
 
 ### Citation
 
-update later
+Zhao, L., Luo, Z., Han, Y. et al. Learning aggressive animal locomotion skills for quadrupedal robots solely from monocular videos. npj Robot 3, 32 (2025). https://doi.org/10.1038/s44182-025-00048-x
